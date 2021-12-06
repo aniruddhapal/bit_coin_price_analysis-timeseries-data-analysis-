@@ -6,7 +6,7 @@ The dataset is of 2587 rows and 7 columns
 
 I have tried to build a model which can predict the future closing price of the bitcoin.
 
-Following are the list of data analysis performed on the dataset.
+Table of contents -
 
 - Simple Moving Average
 - Simple Exponential Smoothing

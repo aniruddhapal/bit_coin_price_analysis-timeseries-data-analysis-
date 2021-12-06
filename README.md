@@ -10,11 +10,11 @@ Following are the list of data analysis performed on the dataset.
 
 - Simple Moving Average
 - Simple Exponential Smoothing
-Holt method for exponential smoothing
-Decomposition and Stationarity Check
-ADFULLER TEST FOR STATIONARITY
-Auto regression using ACF and PACF
-Making the series Stationary
-Lets decompose the log time series to double check whether the time series is stationary
-Taking the results back to its original scale
+- Holt method for exponential smoothing
+- Decomposition and Stationarity Check
+- ADFULLER TEST FOR STATIONARITY
+- Auto regression using ACF and PACF
+- Making the series Stationary
+- Lets decompose the log time series to double check whether the time series is stationary
+- Taking the results back to its original scale
 
